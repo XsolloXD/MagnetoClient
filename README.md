@@ -1,3 +1,3 @@
 # astraclient
 
-https://astraclient.com/play/wasm/18/
+https://astraclient.com/
